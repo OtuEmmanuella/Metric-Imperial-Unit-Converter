@@ -41,16 +41,17 @@ p {
   padding: 1.5em 3em;
   margin: 0;
   text-align: center;
-  min-height: 35vh;
+  min-height: 30vh;
 }
 
 .section-two {
-  padding: 3em 1.5em;
+  padding: 2em 1.5em;
   text-align: center;
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
-  min-height: 55vh;
+  justify-content: space-between;
+  gap: 20px;
+  min-height: 60vh;
 }
 
 .input {
@@ -60,7 +61,7 @@ p {
   border: 1px solid #15bd87;
   width: 100px;
   font-size: 2rem;
-  padding: .5em 1em;
+  padding: .5em .5em;
   margin: .5em 0;
   font-weight: 700;
   object-fit: contain;
