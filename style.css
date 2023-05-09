@@ -113,13 +113,17 @@ button:focus {
     min-height: 50vh;
   }
 
+  .section-one {
+    padding: 1em 3em;
+  }
+
   .section-two {
     padding: 1em;
-    gap: 8px;
+    gap: 4px;
   }
 
  button {
-    margin-left: 1em;
+    margin-left: .5em;
     margin-top: .5em;
     padding: .3em .8em;
  }
